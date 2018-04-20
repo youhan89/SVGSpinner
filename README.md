@@ -7,7 +7,7 @@ You are able to input both a svg file, or a raw SVG based string.
 
 **THIS HAS CURRENTLY ONLY BEEN TESTED ON IOS**
 
-###What's new###
+##What's new##
 **2018-04-20**
 *First initial push, no instructions or anything like that is currently available.
 *This is delivered as is and you will have to figure out how to use it on your own.
